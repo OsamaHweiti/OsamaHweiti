@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Osama Hweiti</h1>
 <h3 align="center">A passionate Junior Full Stack developer from Jordan</h3>
 
-- 🔭 I’m currently working on **React e-commerce**
+- 🔭 I’m currently working on **Guidance Portal**
 
 - 🌱 I’m currently learning **React.js**
 
